@@ -1,2 +1,2 @@
 # maple
-Magento CZ Payment
+Just a draft of something interesting ...
